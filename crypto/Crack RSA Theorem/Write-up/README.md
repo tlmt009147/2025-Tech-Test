@@ -13,7 +13,7 @@ Author: laby
 
 Đầu tiên, lấy flag và chuyển đổi flag thành số nguyên. Giá trị e được lấy bằng 3 với note "# should be ok, right?", đây là một giá trị e khá nhỏ và dễ khiến cho thuật toán bị bẻ gãy.Sau đó m được mã hóa 3 lần với 3 n khác nhau. Mỗi n được tính bằng cách lấy tích của hai số nguyên tố ngẫu nhiên có 1024 bit. Tới đây thì flag đã được mã hóa xong
 
-Đối vớ bài này mình sử dụng Chinese Remainder Theorem dể giải
+Đối vớ bài này mình sử dụng Chinese Remainder Theorem dể giải. Chinese Remainder Theorem rất dễ tìm thấy trên mạng, sau khi tham khảo code mẫu, mình chỉ cần thay thế giá trị tương đương là được.
 
 ![2](https://github.com/tlmt009147/2025-Tech-Test/blob/8dcecead28331df70395e1926f7ca4ac340b17b5/crypto/Crack%20RSA%20Theorem/assets/2.png)
 
