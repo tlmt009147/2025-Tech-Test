@@ -97,7 +97,7 @@ Cảm giác bị bịp quá quen thuộc nên mình mở file ico.ico bằng not
 ![](https://github.com/tlmt009147/2025-Tech-Test/blob/d1566bd025cbf7ee12bd1658d77e5a51387a2a55/reverse/Is%20there%20a%20dog%20behind%20the%20dog/assets/16.png)
 
 Rõ ràng như trời buổi sáng, file ico.ico là một file PE 64 bit không sai vào đâu được. Khỏi cần check qua Detect it easy, mình mở ida lên và reverse file ico.ico này.
-Không quá bất ngờ khi file ico.ico giống y như dúc hàm main() của Dog.exe. Đây cũng là lí do mình bị đánh lừa rằng hàm main() đang chạy thay vì ico.ico.
+Không quá bất ngờ khi file ico.ico giống y như đúc hàm main() của Dog.exe. Đây cũng là lí do mình bị đánh lừa rằng hàm main() đang chạy thay vì ico.ico.
 
 ![](https://github.com/tlmt009147/2025-Tech-Test/blob/d1566bd025cbf7ee12bd1658d77e5a51387a2a55/reverse/Is%20there%20a%20dog%20behind%20the%20dog/assets/19.png)·
 
