@@ -17,7 +17,7 @@ Còn n, d trong file [private_key.perm](https://github.com/tlmt009147/2025-Tech-
 
 ![3](https://github.com/tlmt009147/2025-Tech-Test/blob/54247611dd0fd56e59c18bc878c1925f3ae88c71/crypto/BabyRSA/assets/3.png)
 
-e đã có sẵn trong chall.py. Cuối cùng chỉ cần viết 1 chương trình giải RSA đơn giản mà thôi.
+e đã có sẵn trong chall.py. Cuối cùng chỉ cần viết 1 chương trình giải RSA đơn giản mà thôi. [Script here !!!](https://github.com/tlmt009147/2025-Tech-Test/blob/9aaa51bf8f0aba6ab156bcef4b233827c17801ab/crypto/BabyRSA/assets/solve.py)
 
 ![4](https://github.com/tlmt009147/2025-Tech-Test/blob/73015933ae083eacb81fff434af5bee8821d4873/crypto/BabyRSA/assets/4.png)
 
