@@ -109,6 +109,7 @@ Tuy nhiên vẫn có nhưng điểm khác biệt rõ rệt.
 
 Chuỗi dùng để chứa flag và key khác với Dog.exe và chiểu dài của flag là 36.
 Lúc này sắp ra flag ròi thì mình bị dốt đột xuất nên lấy đoạn dưới đây tham chiếu trong Pseudocode làm key và cipher nên ra kết quả sai.
+
 ![](https://github.com/tlmt009147/2025-Tech-Test/blob/2adf655b6cde4333db1339073adedcbe6b153655/reverse/Is%20there%20a%20dog%20behind%20the%20dog/assets/18.png)
 
 Để giải được, ta cần bê y nguyên các giá trị của các biến trong assembly ra chứ không lấy từ Pseudocode sẽ có sai só cao.
