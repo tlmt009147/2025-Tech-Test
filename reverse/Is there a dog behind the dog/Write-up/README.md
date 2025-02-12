@@ -112,7 +112,7 @@ Lúc này sắp ra flag ròi thì mình bị dốt đột xuất nên lấy đo�
 
 ![](https://github.com/tlmt009147/2025-Tech-Test/blob/2adf655b6cde4333db1339073adedcbe6b153655/reverse/Is%20there%20a%20dog%20behind%20the%20dog/assets/18.png)
 
-Để giải được, ta cần bê y nguyên các giá trị của các biến trong assembly ra chứ không lấy từ Pseudocode sẽ có sai só cao.
+Để giải được, ta cần bê y nguyên các giá trị của các biến trong assembly ra chứ không lấy từ Pseudocode sẽ có sai số cao.
 - Chú ý đoạn key: key này được format 64 bit tương đương 8byte, 4 byte cuối được gán giá trị 637733143 tương đương 26030917 trong hex, 2 byte kế được gán giá trị 1296 tương đương 510 trong hẽ, 2 byte đầu bỏ trống
   - LODWORD(v11) = 637733143;
   - WORD2(v11) = 1296;
