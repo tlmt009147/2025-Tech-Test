@@ -6,7 +6,7 @@ P/s: Jerryyy thầy đù không biết gì cả, chỉ biết đọc tr
 
 Author: Jerryyy
 
-## Write up
+## Write-up
 Sau khi mở file lên xem sơ qua thì mình thấy quá trời packet và không biết bắt đầu từ đâu.
 
 ![1](https://github.com/tlmt009147/2025-Tech-Test/blob/79fa7a369d19386eef8edf95d6d14ba6269899b7/forensics/chao%20mung%20toi%20lop%20FRS/assets/1.png)
