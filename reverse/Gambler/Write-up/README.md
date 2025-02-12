@@ -21,7 +21,7 @@ Khi sử dụng var2 để tạo các số ngẫu nhiên, chuỗi số sẽ luô
 
 ![2](https://github.com/tlmt009147/2025-Tech-Test/blob/71ba375c97adbcae640801e477e1932459976411/reverse/Gambler/assets/2.png)
 
-Tiếp theo mình bắt gặp đoạn code trên. Ta có thể thấy biễn v4 dùng để chứa 10 giấ trị ngẫu nhiên được tạo ra từ seed, và đương nhiên 10 giá trị ngẫu nhiên này sẽ giống nhau mỗi khi chương trình được khởi chạy.
+Tiếp theo mình bắt gặp đoạn code trên. Ta có thể thấy biễn var4 dùng để chứa 10 giấ trị ngẫu nhiên được tạo ra từ seed, và đương nhiên 10 giá trị ngẫu nhiên này sẽ giống nhau mỗi khi chương trình được khởi chạy.
 
 ![3](https://github.com/tlmt009147/2025-Tech-Test/blob/71ba375c97adbcae640801e477e1932459976411/reverse/Gambler/assets/3.png)
 
@@ -29,7 +29,7 @@ Tiếp theo, từng số trong CIPHER được XOR lần lượt với từng gi
 
 Có 2 cách để giải bài này. Cách 1 là sử dụng Random var2 = new Random(2025L); để có được 10 số nguyên dùng và nhập lần lượt vào các Round, sau khi nhập hêt 10 sẽ in ra flag.
 Tuy nhiên mình đang sử dụng bảng java 8 trong khi file là được compile bằng java 17 nên mình sẽ tạo một file mới để decrypt ra flag, cũng là cách 2.
-[[Script here!!!](https://github.com/tlmt009147/2025-Tech-Test/blob/71ba375c97adbcae640801e477e1932459976411/reverse/Gambler/assets/Decrypt.java)
+[Script here!!!](https://github.com/tlmt009147/2025-Tech-Test/blob/71ba375c97adbcae640801e477e1932459976411/reverse/Gambler/assets/Decrypt.java)
 
 ![4](https://github.com/tlmt009147/2025-Tech-Test/blob/71ba375c97adbcae640801e477e1932459976411/reverse/Gambler/assets/4.png)
 
